@@ -1,0 +1,72 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"F:/winbuilds/include",
+						"F:/winbuilds/lib64/gcc/x86_64-w64-mingw32/4.8.3/include",
+						"F:/winbuilds/lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed",
+						"F:/winbuilds/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"F:/winbuilds/lib64/gcc/x86_64-w64-mingw32/4.8.3",
+						"F:/winbuilds/lib64/gcc",
+						"F:/winbuilds/x86_64-w64-mingw32/lib",
+						"F:/winbuilds/lib64"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "F:/winbuilds/bin/cc.exe",
+				"version" : "4.8.3"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "F:/winbuilds/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
