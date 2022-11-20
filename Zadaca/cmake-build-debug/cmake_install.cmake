@@ -1,4 +1,4 @@
-# Install script for directory: F:/Cushtime/Find biggest number without a 'n' letter inside
+# Install script for directory: F:/IMPORTANTTTTTTTTTTTTTTTTTTTT/FINKI/Reopsitory/StukturnoProgramiranje/Zadaca
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "F:/Cushtime/Find biggest number without a 'n' letter inside/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/IMPORTANTTTTTTTTTTTTTTTTTTTT/FINKI/Reopsitory/StukturnoProgramiranje/Zadaca/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -56,7 +56,7 @@ char *fromIntToChar(long long int br){
     }
     return answer;
 }
-//funcion of find maximum number
+//function of find maximum number
 int max(int num1, int num2){
     return (num1 > num2 ) ? num1 : num2;
 }
