@@ -56,7 +56,7 @@ char *fromIntToChar(long long int br){
     }
     return answer;
 }
-//function of find maximum number
+//function find maximum number
 int max(int num1, int num2){
     return (num1 > num2 ) ? num1 : num2;
 }
@@ -65,7 +65,7 @@ int max(int num1, int num2){
 //number is limited to #define LIM=1000000
 int main() {
     char *Number;
-    char letter[1];
+    char letter;
     scanf("%c",&letter);
     for(long long int i=LIM;i>=1;i--){
         Number = fromIntToChar(i);
