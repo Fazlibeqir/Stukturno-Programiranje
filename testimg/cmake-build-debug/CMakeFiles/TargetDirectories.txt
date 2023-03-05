@@ -1,3 +1,0 @@
-F:/IMPORTANTTTTTTTTTTTTTTTTTTTT/FINKI/Reopsitory/StukturnoProgramiranje/testimg/cmake-build-debug/CMakeFiles/testimg.dir
-F:/IMPORTANTTTTTTTTTTTTTTTTTTTT/FINKI/Reopsitory/StukturnoProgramiranje/testimg/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/IMPORTANTTTTTTTTTTTTTTTTTTTT/FINKI/Reopsitory/StukturnoProgramiranje/testimg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
