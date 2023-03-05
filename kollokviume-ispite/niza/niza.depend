@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673297478 source:c:\users\beqir\desktop\beqir\c++ or oop\niza\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

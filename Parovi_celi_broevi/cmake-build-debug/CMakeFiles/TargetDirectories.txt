@@ -1,0 +1,3 @@
+F:/Cushtime/Parovi_celi_broevi/cmake-build-debug/CMakeFiles/Parovi_celi_broevi.dir
+F:/Cushtime/Parovi_celi_broevi/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Cushtime/Parovi_celi_broevi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

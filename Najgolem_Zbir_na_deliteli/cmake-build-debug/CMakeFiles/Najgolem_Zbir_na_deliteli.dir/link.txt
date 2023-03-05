@@ -1,0 +1,3 @@
+"F:\CLION\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Najgolem_Zbir_na_deliteli.dir/objects.a
+F:\winbuilds\bin\ar.exe cr CMakeFiles\Najgolem_Zbir_na_deliteli.dir/objects.a @CMakeFiles\Najgolem_Zbir_na_deliteli.dir\objects1.rsp
+F:\winbuilds\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Najgolem_Zbir_na_deliteli.dir/objects.a -Wl,--no-whole-archive -o Najgolem_Zbir_na_deliteli.exe -Wl,--out-implib,libNajgolem_Zbir_na_deliteli.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Najgolem_Zbir_na_deliteli.dir\linklibs.rsp

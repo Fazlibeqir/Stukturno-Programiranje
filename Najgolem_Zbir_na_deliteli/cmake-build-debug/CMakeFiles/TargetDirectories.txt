@@ -1,0 +1,3 @@
+F:/Cushtime/Najgolem_Zbir_na_deliteli/cmake-build-debug/CMakeFiles/Najgolem_Zbir_na_deliteli.dir
+F:/Cushtime/Najgolem_Zbir_na_deliteli/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Cushtime/Najgolem_Zbir_na_deliteli/cmake-build-debug/CMakeFiles/rebuild_cache.dir

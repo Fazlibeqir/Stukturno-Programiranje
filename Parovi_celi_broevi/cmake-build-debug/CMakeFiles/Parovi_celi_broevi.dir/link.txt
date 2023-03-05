@@ -1,0 +1,3 @@
+"F:\CLION\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Parovi_celi_broevi.dir/objects.a
+F:\winbuilds\bin\ar.exe cr CMakeFiles\Parovi_celi_broevi.dir/objects.a @CMakeFiles\Parovi_celi_broevi.dir\objects1.rsp
+F:\winbuilds\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Parovi_celi_broevi.dir/objects.a -Wl,--no-whole-archive -o Parovi_celi_broevi.exe -Wl,--out-implib,libParovi_celi_broevi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Parovi_celi_broevi.dir\linklibs.rsp

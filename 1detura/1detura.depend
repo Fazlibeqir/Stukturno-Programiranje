@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612732443 source:c:\users\beqir\desktop\beqir\1detura\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+

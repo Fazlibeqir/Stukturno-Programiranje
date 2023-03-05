@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "testimg",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "testimg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testimg-Debug-1b137b0208052111bc96.json",
+					"name" : "testimg",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/IMPORTANTTTTTTTTTTTTTTTTTTTT/FINKI/Reopsitory/StukturnoProgramiranje/testimg/cmake-build-debug",
+		"source" : "F:/IMPORTANTTTTTTTTTTTTTTTTTTTT/FINKI/Reopsitory/StukturnoProgramiranje/testimg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

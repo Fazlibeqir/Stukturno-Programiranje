@@ -1,0 +1,9 @@
+1122,mleko:100
+1312,leb:50
+14567,kakao:20
+987,testo za pica:30
+7865,FINKI smoki:150
+34567,jogurt:85
+2345,puter:130
+#
+,:

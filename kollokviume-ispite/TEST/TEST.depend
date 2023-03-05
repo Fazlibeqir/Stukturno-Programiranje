@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673231324 source:c:\users\beqir\desktop\beqir\c++ or oop\test\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

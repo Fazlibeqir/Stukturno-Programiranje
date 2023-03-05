@@ -1,0 +1,3 @@
+F:/Cushtime/Paren_ekvivalent/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/Cushtime/Paren_ekvivalent/cmake-build-debug/CMakeFiles/Paren_ekvivalent.dir
+F:/Cushtime/Paren_ekvivalent/cmake-build-debug/CMakeFiles/edit_cache.dir

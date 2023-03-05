@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Cushtime"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/Cushtime/BlagBroj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cushtime">
+				<Option output="F:/Cushtime/BlagBroj/cmake-build-debug/Cushtime.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cushtime/BlagBroj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/winbuilds/include"/>
+					<Add directory="f:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="f:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="f:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cushtime"/>
+					<CompileFile command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cushtime/fast">
+				<Option output="F:/Cushtime/BlagBroj/cmake-build-debug/Cushtime.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cushtime/BlagBroj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/winbuilds/include"/>
+					<Add directory="f:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="f:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="f:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cushtime/fast"/>
+					<CompileFile command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/Cushtime/BlagBroj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Cushtime/BlagBroj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/winbuilds/bin/mingw32-make.exe -f &quot;F:/Cushtime/BlagBroj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/Cushtime/BlagBroj/main.c">
+			<Option target="Cushtime"/>
+		</Unit>
+		<Unit filename="F:/Cushtime/InteresenBroj/InteresenBroj.c">
+			<Option target="Cushtime"/>
+		</Unit>
+		<Unit filename="F:/Cushtime/BlagBroj/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

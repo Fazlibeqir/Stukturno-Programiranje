@@ -1,0 +1,3 @@
+"F:\CLION\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\audi3.dir/objects.a
+F:\winbuilds\bin\ar.exe qc CMakeFiles\audi3.dir/objects.a @CMakeFiles\audi3.dir\objects1.rsp
+F:\winbuilds\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\audi3.dir/objects.a -Wl,--no-whole-archive -o audi3.exe -Wl,--out-implib,libaudi3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\audi3.dir\linklibs.rsp

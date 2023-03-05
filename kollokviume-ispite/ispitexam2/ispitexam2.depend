@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655743751 source:c:\users\beqir\desktop\beqir\c++ or oop\ispitexam2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

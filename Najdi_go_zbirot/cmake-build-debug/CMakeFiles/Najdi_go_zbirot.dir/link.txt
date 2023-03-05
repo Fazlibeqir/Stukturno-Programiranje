@@ -1,0 +1,3 @@
+"F:\CLION\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Najdi_go_zbirot.dir/objects.a
+F:\winbuilds\bin\ar.exe cr CMakeFiles\Najdi_go_zbirot.dir/objects.a @CMakeFiles\Najdi_go_zbirot.dir\objects1.rsp
+F:\winbuilds\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Najdi_go_zbirot.dir/objects.a -Wl,--no-whole-archive -o Najdi_go_zbirot.exe -Wl,--out-implib,libNajdi_go_zbirot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Najdi_go_zbirot.dir\linklibs.rsp
